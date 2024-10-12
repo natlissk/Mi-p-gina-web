@@ -82,7 +82,7 @@ img{
     backdrop-filter: blur(10px);
     top: 100%;
     z-index: 1;
-    background-color: black;
+    background-color: #4E4B5076;
     padding: 20px;
     min-width:400px ;
 }
@@ -175,7 +175,7 @@ text-align: center;
     font-weight:600 ;
     color:black ;
 }
-}
+
 .oferts{
     padding: 100px;
     display:flex ;
