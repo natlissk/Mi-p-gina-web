@@ -43,3 +43,4 @@ insertarCarrito(infoElemento);
             </td>
             
     }
+    
